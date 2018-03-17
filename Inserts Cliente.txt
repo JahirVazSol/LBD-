@@ -1,0 +1,30 @@
+insert into Cliente	
+values (1, 'Jahir', 1);
+
+
+insert into Cliente	
+values (2, 'Missa', 2);
+
+insert into Cliente	
+values (3, 'Ever', 3);
+
+insert into Cliente	
+values (4, 'Yair', 4);
+
+insert into Cliente	
+values (5, 'Alonso', 5);
+
+insert into Cliente	
+values (6, 'Betzaida', 6);
+
+insert into Cliente	
+values (7, 'Aracely', 7);
+
+insert into Cliente	
+values (8, 'Mónica', 8);
+
+insert into Cliente	
+values (9, 'Pizarro', 9);
+
+insert into Cliente	
+values (10, 'Zelarayán', 10);

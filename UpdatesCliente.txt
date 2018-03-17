@@ -1,0 +1,19 @@
+update Cliente 
+set nombreCl = 'Saul' 
+Where nombreCl = 'Jahir';
+
+update Cliente 
+set nombreCl = 'Pepe' 
+Where nombreCl = 'Zelarayán';
+
+update Cliente 
+set nombreCl = 'Raul' 
+Where nombreCl = 'Pizarro';
+
+update Cliente 
+set idCliente = 18 
+Where idCliente = 3;
+
+update Cliente 
+set nombreCl = 'Juan' 
+Where idDirección = 2;

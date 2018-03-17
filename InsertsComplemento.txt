@@ -1,0 +1,33 @@
+insert into Complemento
+values (1, 'Pan Ajo', 30, 'http://www.gourmet.cl/wp-content/uploads/2014/09/pan-de-ajo.jpg');
+
+insert into Complemento
+values (2, 'Alitas', 40, 'http://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2016/05/alitasdepollo.jpg');
+
+
+insert into Complemento
+values (3, 'Boneless', 50, 'http://www.recipe4living.com/assets/itemimages/400/400/3/default_01700b51479d90bd7a7951e07d79baa5_dreamstime_s_52490623.jpg');
+
+
+insert into Complemento
+values (4, 'Dedos de Queso', 20, 'http://www.recetasnuestras.com/recetas/pics/580.jpg');
+
+
+insert into Complemento
+values (5, 'Aderezos', 15, 'http://cdn2.cocinadelirante.com/sites/default/files/images/2016/08/aderezoslight.jpg');
+
+
+insert into Complemento
+values (6, 'Salsa de Tomate', 10, 'http://www.pizcadesabor.com/wp-content/uploads/2012/07/salsa-pizza-5.jpg');
+
+insert into Complemento
+values (7, 'Papas a la Francesa', 25, 'http://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2017/09/papasfritasconpocoaceite.jpg');
+
+insert into Complemento
+values (8, 'Papas Crisscut ', 22, 'http://lwprodlastorage.blob.core.windows.net/assets/es/images/products/items/Y0066.jpg');
+
+insert into Complemento
+values (9, 'Spaghetti', 25, 'https://scm-assets.constant.co/scm/unilever/a6798e909fa57bfd19c3e7f00737e5d6/d6ed4451-2c6b-4782-b19e-da7c6c558cc3.jpg');
+
+insert into Complemento
+values (10, 'Lasaña', 20, 'http://vkuso.ru/img/lazanya-s-pomidorami-i-govyazhim-farshem.jpg');

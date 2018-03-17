@@ -1,0 +1,14 @@
+delete from Cliente
+Where idDirección = 1;
+
+delete from Cliente
+Where idDirección = 4;
+
+delete from Cliente
+Where idDirección = 10;
+
+delete from Cliente
+Where nombreCl = 'Pizarro';
+
+delete from Cliente
+Where idCliente = 7;

@@ -1,0 +1,30 @@
+insert into Refresco
+values (1, 'Pecsi', 15, 'pecsi.jpg');
+
+insert into Refresco
+values (2, 'Manzanita', 15, 'manzanita.jpg');
+
+insert into Refresco
+values (3, 'Mirinda', 15, 'Mirinda.jpg');
+
+insert into Refresco
+values (4, '7-Up', 17, '7UP.jpg');
+
+insert into Refresco
+values (5, 'Lipton', 20, 'Lipton.jpg');
+
+insert into Refresco
+values (6, 'E-Pura', 15, 'Epura.jpg');
+
+insert into Refresco
+values (7, 'Pepsi Light', 20, 'PepsiLigth.jpg');
+
+insert into Refresco
+values (8, 'Pepsi c/ Limón', 20, 'PepsiLimón.jpg');
+
+insert into Refresco
+values (9, 'Power Punch', 10, 'PowerLunch.jpg');
+
+insert into Refresco
+values (10, 'Gatorade', 15, 'Gatorade.jpg');
+

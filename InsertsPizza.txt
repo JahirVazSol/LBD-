@@ -1,0 +1,23 @@
+insert into Pizza
+values (3, 'Vegetariana', 100, 'http://www.recetasdiarias.com/wp-content/uploads/2010/01/pizza-vegetariana-488x325.jpg');
+
+insert into Pizza
+values (4, 'Suprema', 130, 'http://placeralplato.com/files/2016/05/Pizza-crocante.jpg');
+
+insert into Pizza
+values (5, 'Jamon', 85, 'http://sevilla.abc.es/gurme//wp-content/uploads/2015/06/pizza-de-jamon-iberico.jpg');
+
+insert into Pizza
+values (6, 'Hawaiana', 90, 'https://t2.rg.ltmcdn.com/es/images/0/2/6/img_pizza_hawaiana_de_jamon_y_pina_50620_300_150.jpg');
+
+insert into Pizza
+values (7, 'Chorizo', 95, 'https://supervalu.ie/image/var/files/recipes/imported/chorizopizza_460x260.jpg');
+
+insert into Pizza
+values (8, 'Mexicana', 85, 'https://i.ytimg.com/vi/u0vvTBEK9XU/maxresdefault.jpg');
+
+insert into Pizza
+values (9, 'Orilla de Queso', 110, 'https://www.papajohns.cl/Content/OnlineOrderingImages/StaticPage/ingredients/Borde_Queso.jpg');
+
+insert into Pizza
+values (10, 'Champiñones', 75, 'https://unareceta.com/wp-content/uploads/2014/05/pizza-de-champin%CC%83ones.jpg');

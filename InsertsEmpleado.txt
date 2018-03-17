@@ -1,0 +1,32 @@
+insert into Empleado
+ values (10, 'Carlos', 'Cajero', 9, 80);
+ 
+insert into Empleado
+ values (20, 'Edgar', 'AtenciónVentanilla', 10, 100);
+
+insert into Empleado
+ values (30, 'Sofía', 'Cajera', 10, 120);
+
+insert into Empleado
+ values (40, 'Everardo', 'Harina', 9, 0);
+ 
+ insert into Empleado
+ values (50, 'Pepe', 'Salsa', 9, 0);
+
+insert into Empleado
+ values (60, 'Enrique', 'Elaboración Cajas', 11, 0);
+
+insert into Empleado
+ values (70, 'Romeo', 'Complemento', 9, 0);
+
+insert into Empleado
+ values (80, 'Sebastián', 'Complemento', 11, 0);
+
+insert into Empleado
+ values (90, 'Jahir', 'Pizzas', 10, 0);
+ 
+ insert into Empleado
+ values (100, 'Santiago', 'Pizzas', 9, 0);
+ 
+ insert into Empleado
+ values (110, 'Iván', 'Pizzas', 10, 0);
